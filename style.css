@@ -40,7 +40,7 @@
   }
 
   .container-left {
-    background-image: url(/images/image-product-desktop.jpg);
+    background-image: url(/product-preview-card-component-main/images/image-product-desktop.jpg);
     width: 100%;
     background-position: center;
     background-size: cover;
